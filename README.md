@@ -28,6 +28,7 @@ This app provides secure, scalable, and user-friendly note management for multip
 
 ## 📂 Project Structure  
 
+```bash
 saas-notes-app/
 ├── public/              # Static assets
 ├── src/                 # Main source code
