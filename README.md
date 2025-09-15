@@ -3,8 +3,7 @@
 A modern multi-tenant notes application built with **React, TypeScript, Vite, Tailwind CSS, and shadcn-ui**.  
 This app provides secure, scalable, and user-friendly note management for multiple tenants.  
 
-🔗 **Live Demo:** [SaaS Notes App](https://saas-notes-app-rosy.vercel.app/login)  
-
+🔗 **Live Demo:** https://saas-notes-app-rosy.vercel.app/login
 ---
 
 ## 🚀 Features  
